@@ -1,2 +1,3 @@
 # study_python
-파이썬 배우는 곳
+python
+print"hello my world?"
